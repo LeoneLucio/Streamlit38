@@ -30,12 +30,6 @@ Projeto de **credit scoring** para prever inadimplência (`mau`) em cartões de 
 
 ---
 
-## Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/credit-scoring.git
-   cd credit-scoring
-
 
 
 https://github.com/user-attachments/assets/d44e2b12-8936-4dbf-825a-5a7c35969160
